@@ -1,2 +1,2 @@
-basic php programming 
+basic Python programming 
 
