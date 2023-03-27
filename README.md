@@ -1,2 +1,2 @@
-basic Python programming 
+basic Go programming 
 
